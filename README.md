@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <Br>
 <h1>Some of my Projects! 🎨</h1>
 <Br>
-  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ichi0915&repo=Raspberry-ArduinoRust)](https://github.com/ichi0915/Raspberry-ArduinoRust)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ichi0915&repo=RustyWallpaperChanger)](https://github.com/ichi0915/RustyWallpaperChanger)
 
 <h1>GitHub Stats! 📊</h1>
