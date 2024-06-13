@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan_Pablo_Guitron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pablo-guitron-naranjo/)](https://www.linkedin.com/in/juan-pablo-guitron-naranjo/)
 [![Website Badge](https://img.shields.io/badge/-blog.luyusteahouse.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://luyusteahouse.com)](https://blog.luyusteahouse.com)
-[![Instagram Badge](https://img.shields.io/badge/-@ichi0915-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ichi0915/)](https://instagram.com/ichi0915)
+[![Instagram Badge](https://img.shields.io/badge/-@thetea.sommelier-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thetea.sommelier/)](https://www.instagram.com/thetea.sommelier)
 [![Gmail Badge](https://img.shields.io/badge/-ichi0915-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ichi0915@gmail.com)](mailto:ichi0915@gmail.com)
 
 <!--
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ichi0915&repo=Raspberry-ArduinoRust)](https://github.com/ichi0915/Raspberry-ArduinoRust)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ichi0915&repo=RustyWallpaperChanger)](https://github.com/ichi0915/RustyWallpaperChanger)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ichi0915&repo=k8s-examples)](https://github.com/ichi0915/k8s-examples)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ichi0915&repo=pomodoro-tauri)](https://github.com/ichi0915/pomodoro-tauri)
 
 <h1>GitHub Stats! 📊</h1>
 <Br>
