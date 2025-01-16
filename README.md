@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 <Br>
   
 <!-- [![Ichi github stats](https://github-readme-stats.vercel.app/api?username=ichi0915&show_icons=true&theme=dracula)](https://github.com/ichi0915/github-readme-stats)-->
-[![Ichi github stats](https://github-readme-streak-stats.herokuapp.com/?user=ichi0915&theme=blueberry_duo)](https://github.com/ichi0915)
+[![Ichi github stats](https://awesome-github-stats.azurewebsites.net/user-stats/ichi0915?cardType=level&theme=tokyonight&preferLogin=false)](https://github.com/ichi0915)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichi0915&layout=compact&theme=github_dark)](https://github.com/ichi0915)
  
